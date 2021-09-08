@@ -10,7 +10,7 @@ $ git push
 5. После выполнения этих команд, Ваши изменения вступят в силу в течении пару минут.
 
 <br>
-Note from Alex: (not from candidate)
+Note from Alex: (not from candidate)<br>
 Front: 
 79.137.77.119
 
